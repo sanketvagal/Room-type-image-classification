@@ -1,4 +1,4 @@
-# Execution:
+# Execution
 
 To execute the script using command line, 
 1. Change the working directory to this folder
